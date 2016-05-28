@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Rachel!"
 date:   2016-05-27 22:31:57 -0400
 categories: jekyll update
 ---
@@ -18,10 +18,5 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-Alright, Lets cut the crap. This is awesome we are going to build are awesome swag sauce game to this!
+It can also be used for this awesome stuff here:
+![My helpful screenshot](https://raw.githubusercontent.com/fbicodex/FAG.io/master/Ghettostickman.png)
