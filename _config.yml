@@ -9,7 +9,7 @@
 title: FAG. Fucking Awesome Game for Fucking Awesome People
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-FAG is the beautiful creation of two hard working people with one that has no idea what to do. But still does not diminish the majesty that is FAG!
+  FAG is the beautiful creation of two hard working people with one that has no idea what to do. But still does not diminish the majesty that is FAG!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
