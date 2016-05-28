@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Rachel"
-date:   2016-05-27 22:31:57 -0400
-categories: Rachel_Category
----
-... which is shown in the screenshot below:
-![My helpful screenshot](https://raw.githubusercontent.com/fbicodex/FAG.io/master/Ghettostickman.png)
